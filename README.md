@@ -10,10 +10,10 @@ This is a project from CSC 485 - Startup Programming at the University of Victor
 **New to beLocal? Make sure to check out our [User Guide](https://github.com/rpanjwani/beLocal/wiki/User-Guide)!**
 
 ###Our Team
-[Carly Lebeuf](https://github.com/clebeuf)  
-[Jyoti Sheoran](https://github.com/sheoranjs24)
-[Riz Panjwani](https://github.com/rpanjwani) 
-[Samuel Navarrete](https://github.com/cakebrewery)
+[Carly Lebeuf](https://github.com/clebeuf)    
+[Jyoti Sheoran](https://github.com/sheoranjs24)   
+[Riz Panjwani](https://github.com/rpanjwani)   
+[Samuel Navarrete](https://github.com/cakebrewery)   
 [Scott Low](https://github.com/scottlow) 
 
 ###Trello 
